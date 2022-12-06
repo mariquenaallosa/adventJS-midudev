@@ -1,4 +1,4 @@
-# 🎅🎄 Awesome adventJS [![adventJS](https://img.shields.io/badge/adventJS-fbbf24?style=flat-square&logo=JavaScript&logoColor=000000)](https://adventjs.dev) [![#adventjs hashtag](https://img.shields.io/badge/-%23adventJS-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/search?q=%23adventjs&src=recent_search_click&f=live) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# 🎅🎄 Awesome adventJS [![adventJS](https://img.shields.io/badge/adventJS-fbbf24?style=flat-square&logo=JavaScript&logoColor=000000)](https://adventjs.dev)
 
 <p align="center"> 
   <img src=https://i.imgur.com/mOUN7uE.png/>
@@ -15,11 +15,11 @@ This repository is a collection of repositories with the solutions to the challe
 
 |  #  |                Challenge                 | Dificultad[^1] |                  Description                   |
 | :-: | :--------------------------------------: | :------------: | :--------------------------------------------: |
-| 01  |   Automating Christmas gift wrapping!    |       🟢       | [Show](https://adventjs.dev/challenges/2022/1) |
-| 02  |  Nobody wants to do extra hours at work  |       🟢       | [Show](https://adventjs.dev/challenges/2022/2) |
-| 03  | How many packs of gifts can Santa carry? |       🟢       | [Show](https://adventjs.dev/challenges/2022/3) |
-| 04  |     Box inside a box and another...      |       🟠       | [Show](https://adventjs.dev/challenges/2022/4) |
-| 05  |         Optimizing Santa's trips         |       🔴       | [Show](https://adventjs.dev/challenges/2022/5) |
+| 01  |   Automating Christmas gift wrapping!    |       🟢       | [Show](https://github.com/mariquenaallosa/adventJS-midudev/tree/main/challenges/2022/1) |
+| 02  |  Nobody wants to do extra hours at work  |       🟢       | [Show](https://github.com/mariquenaallosa/adventJS-midudev/tree/main/challenges/2022/2) |
+| 03  | How many packs of gifts can Santa carry? |       🟢       | [Show](https://github.com/mariquenaallosa/adventJS-midudev/tree/main/challenges/2022/3) |
+| 04  |     Box inside a box and another...      |       🟠       | [Show](https://github.com/mariquenaallosa/adventJS-midudev/tree/main/challenges/2022/4) |
+| 05  |         Optimizing Santa's trips         |       🔴       | [Show](https://github.com/mariquenaallosa/adventJS-midudev/tree/main/challenges/2022/5) |
 | 06  | Rematando los exámenes finales           |       🟠       | ... |
 | 07  |                    ...                   |       🟢       | ... |
 | 08  |                  ...                     |       🟠       | ... |
