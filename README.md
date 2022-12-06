@@ -7,7 +7,7 @@
 <h3 align="center">🧑‍🚀 24 días /
 24 coding challenges • <a href="https://adventjs.dev">adventJS</a> 🚀</h3>
 
-This repository is a collection of repositories with the solutions to the challenges proposed by [@midudev](https://midu.dev/) through [adventJS](https://adventjs.dev/).
+Este repositorio es una colección de repositorios con las soluciones a los desafíos propuestos por  [@midudev](https://midu.dev/) a través de [adventJS](https://adventjs.dev/).
 
 ## 🤖 2022
 
